@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import { Router, Route, Link } from "svelte-navigator";
   import Blog from "./Blog.svelte";
   import BackButton from "./BackButton.svelte";
